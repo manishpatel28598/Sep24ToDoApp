@@ -1,0 +1,39 @@
+Todo App
+
+SRS, DFD(data flow diagram), API
+
+Project setup :Done
+Express setup :Done
+Mongodb connection :Done
+
+setup Ejs :Done
+
+register Page :Done
+Login Page :Done
+
+Register API :Done
+Login API :Done
+
+Session base auth :Done
+middleware to protect API'setup :Done
+
+Dashboard Page :Done
+Logout :Done
+Logout from all devices :Done
+
+Todo API'setup :Done
+Create API :Done
+edit API :Done
+delete API :Done
+
+Dashboard Client (axios) :Done
+axios create API :Done
+axios read API :Done
+axios edit API :Done
+axios delete API :Done
+
+Pagination API
+Rate Limiting (request limit from API)
+Deploy ()
+
+EmailBase Auth (JWT)
